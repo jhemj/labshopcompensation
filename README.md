@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/storming/labshopcompensation_jhe
+www.msaez.io/#/courses/cna-full/a4d75b40-79a0-11ef-9957-851915303955/dp-graphql-2022
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
